@@ -1,0 +1,66 @@
+.body{
+    background-color: lightgray;
+}
+.card img{
+    height: 200px;
+    width: 0 auto;
+}
+.card {
+    margin: 0 auto;
+    
+    }
+.userResearch{
+    padding: 2%;
+    text-align: center;
+}
+.card-body img{
+    height: max-content;
+
+}
+h3{
+   text-align: center;
+   padding: 3%;
+}
+.interview {
+    align-items: center;
+    padding: 2%;
+    text-align: center;
+   
+}
+.survey-stats p {
+    padding: 3%;
+    font-size: 24px;
+}
+.survey-stats img {
+    height: 0 auto;
+    width: 1000px;
+}
+.affinity-diagram img {
+    height: 0 auto;
+    width: 1000px;
+}
+.affinity-map img {
+    height: 0 auto;
+    width: 1000px;
+}
+.empathy-map img {
+    height: 0 auto;
+    width: 1000px;
+}
+.user-persona img {
+    height: 0 auto;
+    width: 1000px;
+}
+.definition-ideation{
+    text-align: center;
+}
+.ideation  img {
+    height: 0 auto;
+    width: 1000px;
+    
+}
+.matrix  img {
+    height: 0 auto;
+    width: 1000px;
+    
+}
