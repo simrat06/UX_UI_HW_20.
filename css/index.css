@@ -5,6 +5,7 @@
     height: 200px;
     width: 0 auto;
 }
+
 .card {
     margin: 0 auto;
     
@@ -63,4 +64,16 @@ h3{
     height: 0 auto;
     width: 1000px;
     
+}
+.value-proposition  img {
+    height: 0 auto;
+    width: 1000px;
+}
+.storyboard  img {
+    height: 0 auto;
+    width: 1000px;
+}
+.journey-map  img {
+    height: 0 auto;
+    width: 1000px;
 }
