@@ -77,3 +77,58 @@ h3{
     height: 0 auto;
     width: 1000px;
 }
+.prototyping{
+    text-align: center;
+}
+.competitor  img {
+    height: 0 auto;
+    width: 1000px;
+}
+.indirect-competitor  img {
+    height: 0 auto;
+    width: 1000px;
+    padding-top: 2%;
+}
+.user-flow  img {
+    height: 0 auto;
+    width: 1000px;
+   
+}
+.sketches  img {
+    height: 0 auto;
+    width: 1000px;
+   
+}
+.wireframes  img {
+    height: 0 auto;
+    width: 1000px;
+}
+.wireframes2  img {
+    height: 0 auto;
+    width: 1000px;
+    padding-top: 2%;
+}
+.user-testing  img {
+    height: 0 auto;
+    width: 1000px;
+}
+.feedback  img {
+    height: 0 auto;
+    width: 1000px;
+}
+.matrix  img {
+    height: 0 auto;
+    width: 1000px;
+    padding-top: 2%;
+}
+.mockup  img {
+    height: 0 auto;
+    width: 1000px;
+}
+.android  img {
+    padding-bottom: 2%;
+}
+.row{
+    background-color: gray;
+    
+}
