@@ -132,3 +132,7 @@ h3{
     background-color: gray;
     
 }
+img{
+    border: 2px solid black;
+    border-radius: 20px;
+}
